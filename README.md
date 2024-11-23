@@ -1,2 +1,2 @@
-# badum2
-The Badum Badum Game.
+# balum2
+The Balum Balum Game.
